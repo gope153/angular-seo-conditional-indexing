@@ -1,3 +1,3 @@
-# angular-ivy-mxk9kt
+#angular seo indexing on condition
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-mxk9kt)
+just a simple example for indexing a angular page on conditions 
